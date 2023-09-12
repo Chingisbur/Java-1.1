@@ -3,7 +3,7 @@ public class Main {
 
         int price = 13676;
 
-        int bonus = prise / 20;
+        int bonus = priсe / 20;
         System.out.println("Бонус : " + bonus);
     }
 }
